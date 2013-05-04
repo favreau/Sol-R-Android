@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.widget.ImageView"/>
+<fullyQualifiedTypeName name="android.graphics.Color"/>
+<fullyQualifiedTypeName name="android.net.http.AndroidHttpClient"/>
+<fullyQualifiedTypeName name="org.apache.http.client.HttpClient"/>
+<fullyQualifiedTypeName name="android.app.backup.RestoreObserver"/>
+<fullyQualifiedTypeName name="android.graphics.Bitmap"/>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="android.util.Base64"/>
+<fullyQualifiedTypeName name="android.widget.SeekBar"/>
+<fullyQualifiedTypeName name="android.view.MotionEvent.PointerCoords"/>
+<fullyQualifiedTypeName name="android.view.View.OnHoverListener"/>
+<fullyQualifiedTypeName name="android.view.View.OnFocusChangeListener"/>
+<fullyQualifiedTypeName name="android.view.View.OnGenericMotionListener"/>
+</qualifiedTypeNameHistroy>
