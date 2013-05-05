@@ -6,6 +6,8 @@
 	</section>
 	<section name="ZipFileImportWizard">
 	</section>
+	<section name="EditorSelectionDialog">
+	</section>
 	<section name="ImportExportAction">
 	</section>
 </section>
