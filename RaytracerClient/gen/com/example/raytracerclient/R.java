@@ -25,17 +25,23 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int dummy_button=0x7f070002;
+        public static final int LinearLayout=0x7f070001;
+        public static final int btnRender=0x7f070003;
+        public static final int etModel=0x7f070005;
         public static final int etURL=0x7f070004;
         public static final int fullscreen_content=0x7f070000;
-        public static final int fullscreen_content_controls=0x7f070001;
-        public static final int ivRendering=0x7f070003;
+        public static final int fullscreen_content_controls=0x7f070002;
+        public static final int ivRendering=0x7f070006;
     }
     public static final class layout {
         public static final int activity_fullscreen=0x7f030000;
     }
     public static final class string {
         public static final int app_name=0x7f050000;
+        public static final int default_model=0x7f050004;
+        /** <string name="default_url">http://192.168.1.3:10000</string> 
+         */
+        public static final int default_url=0x7f050003;
         public static final int dummy_button=0x7f050001;
         public static final int dummy_content=0x7f050002;
     }

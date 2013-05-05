@@ -13,4 +13,6 @@
 <fullyQualifiedTypeName name="android.view.View.OnHoverListener"/>
 <fullyQualifiedTypeName name="android.view.View.OnFocusChangeListener"/>
 <fullyQualifiedTypeName name="android.view.View.OnGenericMotionListener"/>
+<fullyQualifiedTypeName name="android.preference.EditTextPreference"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
 </qualifiedTypeNameHistroy>
