@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="15" version="2.0">
+<workbench progressCount="21" version="2.0">
 <workbenchAdvisor/>
 <window height="768" maximized="true" width="1024" x="712" y="112">
 <fastViewData fastViewLocation="1024"/>
@@ -20,7 +20,7 @@
 <coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="61" y="22"/>
 <coolItem id="org.eclipse.debug.ui.launch.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
-<coolItem id="org.eclipse.debug.ui.main.toolbar" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.debug.ui.main.toolbar" itemType="typeToolBarContribution" x="261" y="22"/>
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="206" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
@@ -41,43 +41,24 @@
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
-<part id="8"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FullscreenActivity.java" partName="FullscreenActivity.java" path="E:/svn/GPGPU/Android/RaytracerClient/trunk/RaytracerClient/src/com/example/raytracerclient/FullscreenActivity.java" title="FullscreenActivity.java" tooltip="RaytracerClient/src/com/example/raytracerclient/FullscreenActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RaytracerClient/src/com/example/raytracerclient/FullscreenActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5854" selectionTopPixel="2800"/>
-</editor>
 <editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_fullscreen.xml" partName="activity_fullscreen.xml" path="E:/svn/GPGPU/Android/RaytracerClient/trunk/RaytracerClient/res/layout/activity_fullscreen.xml" title="activity_fullscreen.xml" tooltip="RaytracerClient/res/layout/activity_fullscreen.xml" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RaytracerClient/res/layout/activity_fullscreen.xml"/>
 </editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" partName="strings.xml" path="E:/svn/GPGPU/Android/RaytracerClient/trunk/RaytracerClient/res/values/strings.xml" title="strings.xml" tooltip="RaytracerClient/res/values/strings.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RaytracerClient/res/values/strings.xml"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FullscreenActivity.java" partName="FullscreenActivity.java" path="E:/svn/GPGPU/Android/RaytracerClient/trunk/RaytracerClient/src/com/example/raytracerclient/FullscreenActivity.java" title="FullscreenActivity.java" tooltip="RaytracerClient/src/com/example/raytracerclient/FullscreenActivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RaytracerClient/src/com/example/raytracerclient/FullscreenActivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1984" selectionTopPixel="520"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="FutureTask.class" partName="FutureTask.class" title="FutureTask.class" tooltip="java.util.concurrent.FutureTask" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;java.util.concurrent(FutureTask.class"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="11170" selectionTopPixel="5160"/>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="Sensor.class" partName="Sensor.class" title="Sensor.class" tooltip="android.hardware.Sensor" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;android.hardware(Sensor.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3554" selectionTopPixel="1770"/>
 </editor>
-<editor id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="RaytracerClient Manifest" path="E:/svn/GPGPU/Android/RaytracerClient/trunk/RaytracerClient/bin/AndroidManifest.xml" title="RaytracerClient Manifest" tooltip="RaytracerClient/bin/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RaytracerClient/bin/AndroidManifest.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="attrs.xml" partName="attrs.xml" path="E:/svn/GPGPU/Android/RaytracerClient/trunk/RaytracerClient/res/values/attrs.xml" title="attrs.xml" tooltip="RaytracerClient/res/values/attrs.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RaytracerClient/res/values/attrs.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="styles.xml" partName="styles.xml" path="E:/svn/GPGPU/Android/RaytracerClient/trunk/RaytracerClient/res/values/styles.xml" title="styles.xml" tooltip="RaytracerClient/res/values/styles.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RaytracerClient/res/values/styles.xml"/>
-</editor>
-<editor id="com.android.ide.eclipse.editors.CommonXmlEditor" name="colors.xml" partName="colors.xml" path="E:/svn/GPGPU/Android/RaytracerClient/trunk/RaytracerClient/res/values/colors.xml" title="colors.xml" tooltip="RaytracerClient/res/values/colors.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RaytracerClient/res/values/colors.xml"/>
-</editor>
-<editor activePart="true" focus="true" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" partName="RaytracerClient Manifest" path="E:/svn/GPGPU/Android/RaytracerClient/trunk/RaytracerClient/AndroidManifest.xml" title="RaytracerClient Manifest" tooltip="RaytracerClient/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/RaytracerClient/AndroidManifest.xml"/>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.ClassFileEditor" name="Camera.class" partName="Camera.class" title="Camera.class" tooltip="android.hardware.Camera" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;android.hardware(Camera.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="16080" selectionTopPixel="9966"/>
 </editor>
 </editors>
 <views>
@@ -115,7 +96,7 @@
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Errors (100 of 153 items)"/>
+<category IMemento.internal.id="Errors (1 item)"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="120" org.eclipse.ui.ide.markerType="120" org.eclipse.ui.ide.pathField="160" org.eclipse.ui.ide.resourceField="120" org.eclipse.ui.ide.severityAndDescriptionField="987"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -161,7 +142,7 @@
 <view id="com.android.ide.eclipse.ddms.views.AllocTrackerView" partName="Allocation Tracker"/>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
-<perspectives activePart="com.android.ide.eclipse.editors.manifest.ManifestEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspectives activePart="org.eclipse.jdt.ui.ClassFileEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="0" fixed="0" version="0.016">
 <descriptor class="com.android.ide.eclipse.ddms.Perspective" id="com.android.ide.eclipse.ddms.Perspective" label="DDMS"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -320,9 +301,9 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.19119959" ratioLeft="365" ratioRight="1544" relationship="2" relative="left"/>
-<info folder="true" part="bottom" ratio="0.7234763" ratioLeft="641" ratioRight="245" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<info part="org.eclipse.ui.editorss" ratio="0.19434258" ratioLeft="371" ratioRight="1538" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.8115124" ratioLeft="719" ratioRight="167" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="com.android.ide.eclipse.ddms.views.LogCatView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
 <page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
@@ -341,7 +322,7 @@
 </presentation>
 </folder>
 </info>
-<info folder="true" part="right" ratio="0.7308389" ratioLeft="1211" ratioRight="446" relationship="2" relative="org.eclipse.ui.editorss">
+<info folder="true" part="right" ratio="0.73968446" ratioLeft="1219" ratioRight="429" relationship="2" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
@@ -411,20 +392,29 @@
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <view id="com.android.ide.eclipse.ddms.views.LogCatView"/>
 <fastViewBars/>
-<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
 <page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.7810384" ratioLeft="692" ratioRight="194" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.7810384" ratioLeft="692" ratioRight="194" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
 <page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.cdt.debug.ui.executablesView" label="Executables"/>
@@ -432,34 +422,44 @@
 <page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
 <page content="org.eclipse.jdt.debug.ui.DisplayView" label="LabelNotFound"/>
 <page content="org.eclipse.search.SearchResultView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@37d1c424" ratio="0.2556312" ratioLeft="488" ratioRight="1421" relationship="2" relative="org.eclipse.debug.internal.ui.ConsoleFolderView">&#x0A;<folder activePageID="com.android.ide.eclipse.ddms.views.LogCatView" appearance="2" expanded="2">&#x0A;<page content="com.android.ide.eclipse.ddms.views.LogCatView" label="LogCat"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@37d1c424" ratio="0.2556312" ratioLeft="488" ratioRight="1421" relationship="2" relative="org.eclipse.debug.internal.ui.ConsoleFolderView">
+<folder activePageID="com.android.ide.eclipse.ddms.views.LogCatView" appearance="2" expanded="2">
+<page content="com.android.ide.eclipse.ddms.views.LogCatView" label="LogCat"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.49056605" ratioLeft="338" ratioRight="351" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
-<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<info part="org.eclipse.ui.editorss" ratio="0.31059507" ratioLeft="214" ratioRight="475" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.75" ratioLeft="1434" ratioRight="478" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
 <page content="org.eclipse.cdt.dsf.gdb.ui.tracecontrol.view" label="LabelNotFound"/>
 <page content="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="956" ratioRight="956" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.ExpressionView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="956" ratioRight="956" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">
+<folder activePageID="org.eclipse.debug.ui.VariableView" appearance="2" expanded="2">
+<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
 <page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
 <page content="org.eclipse.debug.ui.ExpressionView" label="Expressions"/>
 <page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
 <page content="org.eclipse.cdt.debug.ui.SignalsView" label="LabelNotFound"/>
 <page content="org.eclipse.debug.ui.ModuleView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
 <part id="1"/>
 <part id="2"/>
 </presentation>
@@ -472,123 +472,147 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/RaytracerClient/res/layout/activity_fullscreen.xml"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/RaytracerClient/src/com/example/raytracerclient/FullscreenActivity.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/RaytracerClient/res/layout/activity_fullscreen.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/RaytracerClient/res/values/strings.xml"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;java.util.concurrent(ThreadPoolExecutor.class"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;android.view(View.class"/>
-<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;java.util.concurrent(FutureTask.class"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/RaytracerClient/res/values/strings.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/RaytracerClient/bin/AndroidManifest.xml"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/RaytracerClient/res/layout/activity_fullscreen.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/RaytracerClient/res/values/attrs.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/RaytracerClient/res/values/styles.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/RaytracerClient/res/values/colors.xml"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" path="/RaytracerClient/AndroidManifest.xml"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;java.lang(ClassLoader.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/RaytracerClient/gen/com/example/raytracerclient/R.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/RaytracerClient/res/layout/activity_fullscreen.xml"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;android.os(Looper.class"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/RaytracerClient/res/layout/activity_fullscreen.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" path="/RaytracerClient/res/values/strings.xml"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;android.hardware(Sensor.class"/>
+<editor factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;android.hardware(Camera.class"/>
 </editors>
-<item historyLabel="activity_fullscreen.xml" index="0"/>
-<item historyLabel="ThreadPoolExecutor.class" index="4">
+<item historyLabel="activity_fullscreen.xml" index="1"/>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position/>
+</item>
+<item historyLabel="activity_fullscreen.xml" index="1"/>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="2378" y="0"/>
+</item>
+<item historyLabel="activity_fullscreen.xml" index="1"/>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="2468" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="2033" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="5350" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="5412" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="5564" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="1789" y="0"/>
+</item>
+<item historyLabel="ClassLoader.class" index="2">
+<position info="not_deleted" x="17737" y="0"/>
+</item>
+<item historyLabel="ClassLoader.class" index="2">
+<position info="not_deleted" x="19009" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="1984" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="1898" y="0"/>
+</item>
+<item historyLabel="activity_fullscreen.xml" index="1"/>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="1898" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="2290" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="5350" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="1789" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="1984" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="5795" y="34"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="6245" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="6455" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="1840" y="0"/>
+</item>
+<item historyLabel="activity_fullscreen.xml" index="1"/>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="3605" y="12"/>
+</item>
+<item historyLabel="R.java" index="3">
+<position info="not_deleted" x="1202" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="3605" y="12"/>
+</item>
+<item historyLabel="activity_fullscreen.xml" index="1">
+<position/>
+</item>
+<item historyLabel="activity_fullscreen.xml" index="4">
+<position/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="2162" y="0"/>
+</item>
+<item historyLabel="activity_fullscreen.xml" index="1"/>
+<item historyLabel="Looper.class" index="5">
+<position info="not_deleted" x="5495" y="0"/>
+</item>
+<item historyLabel="activity_fullscreen.xml" index="1"/>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="2162" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="1789" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="1984" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="2041" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="2290" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="2295" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="2363" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="2468" y="0"/>
+</item>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="2547" y="0"/>
+</item>
+<item historyLabel="activity_fullscreen.xml" index="6"/>
+<item historyLabel="strings.xml" index="7"/>
+<item historyLabel="activity_fullscreen.xml" index="6"/>
+<item historyLabel="FullscreenActivity.java" index="0">
+<position info="not_deleted" x="1984" y="0"/>
+</item>
+<item historyLabel="Sensor.class" index="8">
+<position info="not_deleted" x="3554" y="0"/>
+</item>
+<item active="true" historyLabel="Camera.class" index="9">
 <position info="not_deleted" x="3" y="0"/>
 </item>
-<item historyLabel="ThreadPoolExecutor.class" index="4">
-<position info="not_deleted" x="42822" y="0"/>
-</item>
-<item historyLabel="activity_fullscreen.xml" index="0"/>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position info="not_deleted" x="1991" y="0"/>
-</item>
-<item historyLabel="activity_fullscreen.xml" index="0">
-<position info="not_deleted" x="2176" y="0"/>
-</item>
-<item historyLabel="activity_fullscreen.xml" index="2">
-<position info="not_deleted" x="2186" y="0"/>
-</item>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position info="not_deleted" x="1991" y="0"/>
-</item>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position info="not_deleted" x="1988" y="0"/>
-</item>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position info="not_deleted" x="3156" y="0"/>
-</item>
-<item historyLabel="activity_fullscreen.xml" index="0"/>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position/>
-</item>
-<item historyLabel="activity_fullscreen.xml" index="0"/>
-<item historyLabel="strings.xml" index="3"/>
-<item historyLabel="activity_fullscreen.xml" index="0"/>
-<item historyLabel="strings.xml" index="3"/>
-<item historyLabel="activity_fullscreen.xml" index="0"/>
-<item historyLabel="strings.xml" index="3"/>
-<item historyLabel="activity_fullscreen.xml" index="0"/>
-<item historyLabel="strings.xml" index="3"/>
-<item historyLabel="activity_fullscreen.xml" index="0"/>
-<item historyLabel="strings.xml" index="3"/>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position info="not_deleted" x="1870" y="0"/>
-</item>
-<item historyLabel="activity_fullscreen.xml" index="0"/>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position info="not_deleted" x="1870" y="0"/>
-</item>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position/>
-</item>
-<item historyLabel="activity_fullscreen.xml" index="0"/>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position/>
-</item>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position/>
-</item>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position/>
-</item>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position info="not_deleted" x="5015" y="0"/>
-</item>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position info="not_deleted" x="5167" y="0"/>
-</item>
-<item historyLabel="View.class" index="5">
-<position info="not_deleted" x="213158" y="0"/>
-</item>
-<item historyLabel="View.class" index="5">
-<position info="not_deleted" x="213259" y="0"/>
-</item>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position info="not_deleted" x="1737" y="0"/>
-</item>
-<item historyLabel="FutureTask.class" index="6">
-<position info="not_deleted" x="11170" y="0"/>
-</item>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position info="not_deleted" x="1737" y="0"/>
-</item>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position info="not_deleted" x="1190" y="0"/>
-</item>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position info="not_deleted" x="3225" y="0"/>
-</item>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position info="not_deleted" x="4959" y="0"/>
-</item>
-<item historyLabel="FullscreenActivity.java" index="1">
-<position info="not_deleted" x="5854" y="0"/>
-</item>
-<item historyLabel="strings.xml" index="7"/>
-<item historyLabel="RaytracerClient Manifest" index="8"/>
-<item historyLabel="activity_fullscreen.xml" index="9"/>
-<item historyLabel="attrs.xml" index="10"/>
-<item historyLabel="styles.xml" index="11"/>
-<item historyLabel="strings.xml" index="7"/>
-<item historyLabel="colors.xml" index="12"/>
-<item historyLabel="attrs.xml" index="10"/>
-<item active="true" historyLabel="RaytracerClient Manifest" index="13"/>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
 </page>
@@ -607,6 +631,30 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Camera.class" tooltip="android.hardware.Camera">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;android.hardware(Camera.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Sensor.class" tooltip="android.hardware.Sensor">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;android.hardware(Sensor.class"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Looper.class" tooltip="android.os.Looper">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;android.os(Looper.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="R.java" tooltip="RaytracerClient/gen/com/example/raytracerclient/R.java">
+<persistable path="/RaytracerClient/gen/com/example/raytracerclient/R.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="ClassLoader.class" tooltip="java.lang.ClassLoader">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;java.lang(ClassLoader.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" tooltip="RaytracerClient/res/values/strings.xml">
+<persistable path="/RaytracerClient/res/values/strings.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="ic_launcher.png" tooltip="RaytracerClient/res/drawable-hdpi/ic_launcher.png">
+<persistable path="/RaytracerClient/res/drawable-hdpi/ic_launcher.png"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FullscreenActivity.java" tooltip="RaytracerClient/src/com/example/raytracerclient/FullscreenActivity.java">
+<persistable path="/RaytracerClient/src/com/example/raytracerclient/FullscreenActivity.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.manifest.ManifestEditor" name="AndroidManifest.xml" tooltip="RaytracerClient/AndroidManifest.xml">
 <persistable path="/RaytracerClient/AndroidManifest.xml"/>
 </file>
@@ -625,32 +673,8 @@
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="ic_launcher.png" tooltip="RaytracerClient/res/drawable-mdpi/ic_launcher.png">
 <persistable path="/RaytracerClient/res/drawable-mdpi/ic_launcher.png"/>
 </file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="ic_launcher.png" tooltip="RaytracerClient/res/drawable-hdpi/ic_launcher.png">
-<persistable path="/RaytracerClient/res/drawable-hdpi/ic_launcher.png"/>
-</file>
 <file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="View.class" tooltip="android.view.View">
 <persistable org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;android.view(View.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="strings.xml" tooltip="RaytracerClient/res/values/strings.xml">
-<persistable path="/RaytracerClient/res/values/strings.xml"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Method.class" tooltip="java.lang.reflect.Method">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;java.lang.reflect(Method.class"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="Handler.class" tooltip="android.os.Handler">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;android.os(Handler.class"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="View$OnDragListener.class" tooltip="android.view.View$OnDragListener">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;android.view(View$OnDragListener.class"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="ThreadPoolExecutor.class" tooltip="java.util.concurrent.ThreadPoolExecutor">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;java.util.concurrent(ThreadPoolExecutor.class"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="MotionEvent.class" tooltip="android.view.MotionEvent">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=RaytracerClient/E:\/Android\/adt-bundle-windows-x86_64-20130219\/sdk\/platforms\/android-17\/android.jar&lt;android.view(MotionEvent.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.CommonXmlEditor" name="activity_fullscreen.xml" tooltip="RaytracerClient/res/layout/activity_fullscreen.xml">
-<persistable path="/RaytracerClient/res/layout/activity_fullscreen.xml"/>
 </file>
 </mruList>
 </workbench>

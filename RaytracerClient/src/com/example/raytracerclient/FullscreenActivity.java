@@ -18,9 +18,9 @@ import android.util.Base64;
 import android.view.MotionEvent;
 import android.view.MotionEvent.PointerCoords;
 import android.view.View;
-import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
+import android.widget.RadioGroup;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
@@ -46,6 +46,7 @@ public class FullscreenActivity extends Activity {
 	private PointerCoords mousePos = new PointerCoords();
 	private PointerCoords oldMousePos = new PointerCoords();
 	private PointerCoords viewAngles = new PointerCoords();
+	private static RadioGroup rgObjectType = null;
 
 	private class DownloadFilesTask extends AsyncTask<URL, Integer, Long> {
 		protected Long doInBackground(URL... urls) {
@@ -54,11 +55,17 @@ public class FullscreenActivity extends Activity {
 			HttpClient httpclient = new DefaultHttpClient();
 			HttpContext localContext = new BasicHttpContext();
 			
+			String url = edURL.getText().toString() + "/get?";
 			// Prepare a request object
-			HttpGet httpget = new HttpGet( edURL.getText().toString() + 
-					"/get?irt=" + edModel.getText().toString() + 
-					"&postprocessing=0&bkcolor=255,255,255&size=0&quality=1" +
-					"&rotation=" + viewAngles.x + "," + viewAngles.y + ",0&scene=0&distance=-10000&depth=50000&fake=0&values=0,0");
+			switch( rgObjectType.getCheckedRadioButtonId() )
+			{
+			case R.id.rdModel: url += "model=" + edModel.getText().toString() + "&distance=-10000"; break;
+			case R.id.rdMolecule: url += "molecule=" + edModel.getText().toString() + "&distance=-5000"; break;
+			case R.id.rdChart: url += "distance=-10000";
+			}
+			url += "&postprocessing=0&bkcolor=255,255,255&size=0&quality=1";
+			url += "&rotation=" + viewAngles.x + "," + viewAngles.y + ",0&scene=0&depth=50000&fake=0&values=0,0";
+			HttpGet httpget = new HttpGet( url ); 
 
 			try {
 				// Execute the request
@@ -99,6 +106,7 @@ public class FullscreenActivity extends Activity {
 		edURL     = (EditText)findViewById(R.id.etURL);
 		edModel   = (EditText)findViewById(R.id.etModel);
 		ivRendering  =(ImageView)findViewById(R.id.ivRendering);
+		rgObjectType =(RadioGroup)findViewById(R.id.rgObjectType);
 		
 		mousePos.x = ivRendering.getWidth()/2;
 		mousePos.y = ivRendering.getHeight()/2;

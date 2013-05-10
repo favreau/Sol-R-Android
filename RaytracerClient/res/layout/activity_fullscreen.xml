@@ -43,13 +43,13 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:text="@string/dummy_button" />
-
         </TableLayout>
 
         <EditText
             android:id="@+id/etURL"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_gravity="top"
             android:contentDescription="@string/dummy_content"
             android:ems="10"
             android:inputType="textUri"
@@ -62,17 +62,47 @@
             android:id="@+id/etModel"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_gravity="top"
             android:contentDescription="@string/dummy_content"
             android:ems="10"
             android:inputType="textUri"
-            android:text="@string/default_model" />
+            android:text="@string/default_name" />
 
         <ImageView
             android:id="@+id/ivRendering"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:contentDescription="@string/dummy_content" />
+            android:layout_gravity="top"
+            android:contentDescription="@string/dummy_content"
+            android:scaleType="matrix" />
+
+        <RadioGroup
+            android:id="@+id/rgObjectType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/rdModel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="@string/default_model" />
+
+            <RadioButton
+                android:id="@+id/rdMolecule"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/default_molecule" />
+
+            <RadioButton
+                android:id="@+id/rdChart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/default_chart" />
+        </RadioGroup>
+
     </LinearLayout>
 
 </FrameLayout>
